@@ -11,7 +11,7 @@ body{
   height: 50px;
   position:absolute;
   top: 10px;
-  right:30px
+  right:30px;
 }
 .text-description{
   display: flex;
